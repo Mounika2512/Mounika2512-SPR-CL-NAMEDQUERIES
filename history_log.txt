@@ -1,7 +1,7 @@
-commit 70b7c7454423a7ae25f9ebcb0c02ce543aabe67a
+commit fb67469fc4ed7583153b36cb015f5a5b7aed02dd
 Author: Mounika2512 <mounikasaviti25@gmail.com>
-Date:   Mon Apr 22 22:46:34 2024 +0530
+Date:   Mon Apr 22 22:47:42 2024 +0530
 
-    namesqueries
+    namedqueries
 
- 1 file changed, 5 insertions(+), 28 deletions(-)
+ 1 file changed, 7 insertions(+)
